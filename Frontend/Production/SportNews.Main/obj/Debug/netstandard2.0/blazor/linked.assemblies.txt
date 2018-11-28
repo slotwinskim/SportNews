@@ -1,0 +1,13 @@
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.TagHelperWorkaround.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\SportNews.Main.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\System.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Main\obj\Debug\netstandard2.0\blazor\linker\SportNews.Main.pdb

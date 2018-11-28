@@ -1,0 +1,9 @@
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Shared\bin\Debug\netstandard2.0\SportNews.Shared.deps.json
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Shared\bin\Debug\netstandard2.0\SportNews.Shared.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Shared\bin\Debug\netstandard2.0\SportNews.Shared.pdb
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Shared\obj\Debug\netstandard2.0\SportNews.Shared.csprojAssemblyReference.cache
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Shared\obj\Debug\netstandard2.0\SportNews.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Shared\obj\Debug\netstandard2.0\SportNews.Shared.AssemblyInfoInputs.cache
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Shared\obj\Debug\netstandard2.0\SportNews.Shared.AssemblyInfo.cs
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Shared\obj\Debug\netstandard2.0\SportNews.Shared.dll
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Shared\obj\Debug\netstandard2.0\SportNews.Shared.pdb
