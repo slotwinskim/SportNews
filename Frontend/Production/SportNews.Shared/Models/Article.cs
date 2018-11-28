@@ -2,7 +2,7 @@
 
 namespace SportNews.Shared.Models
 {
-	public class New : Entity
+	public class Article : Entity
 	{
 		public string Title { get; set; }
 		public int Points { get; set; }

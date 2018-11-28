@@ -34,8 +34,6 @@ C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\D
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\SportNews.Client.csproj.CoreCompileInputs.cache
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Blazor.inputs.txt
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\App.g.i.cs
-C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\Counter.g.i.cs
-C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\FetchData.g.i.cs
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\Index.g.i.cs
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\_ViewImports.g.i.cs
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Shared\MainLayout.g.i.cs
@@ -46,8 +44,6 @@ C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\D
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Blazor.components.input.cache
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Blazor.definition.components.json
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\App.g.cs
-C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\Counter.g.cs
-C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\FetchData.g.cs
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\Index.g.cs
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\_ViewImports.g.cs
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Shared\MainLayout.g.cs
@@ -82,3 +78,9 @@ C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\D
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\blazor\linker\SportNews.Shared.pdb
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
 C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\Basketball.g.i.cs
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\Football.g.i.cs
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\Basketball.g.cs
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\Football.g.cs
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\About.g.i.cs
+C:\Users\mnsl\Documents\git\SportNews\Frontend\Production\SportNews.Client\obj\Debug\netstandard2.0\Pages\About.g.cs
